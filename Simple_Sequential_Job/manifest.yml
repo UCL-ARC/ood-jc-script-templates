@@ -1,0 +1,3 @@
+name: Simple Sequential Job
+script: job_script.sh
+notes: This job copies a file to the job's temporary storage on the compute node, uses it to produce some output, then copies back the result to the directory the job was submitted from.

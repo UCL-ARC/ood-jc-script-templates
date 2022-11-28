@@ -1,0 +1,3 @@
+name: Basic Example Script
+script: job_script.sh
+notes: This basic job script prints some output about where and when it's running.

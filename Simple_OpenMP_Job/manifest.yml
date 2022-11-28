@@ -1,0 +1,3 @@
+name: Simple OpenMP Job
+script: job_script.sh
+notes: This job compiles some example code and runs it in parallel, using OpenMP to allow multithreading.
